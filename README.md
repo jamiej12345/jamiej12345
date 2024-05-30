@@ -7,6 +7,7 @@ I am a Fontend developer based in London
 - React
 - JavaScript
 - TailwindCSS
+- DaisyUI
 - TypeScript
 - Node.js
 - Express.js

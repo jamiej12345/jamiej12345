@@ -15,7 +15,7 @@ I am a Fontend developer based in London
 - MongoDb 
 
 
-## Feel free to check out my work here, vist my portfolio here. You can also find me on LinkedIn
+## Feel free to check out my work, vist my **[portfolio](https://jamie-j-portfolio.vercel.app). You can also find me on **[LinkedIn](https://www.linkedin.com/in/jamie-joahill/)
 
 🚀 **Currently working on:** 🚀
 - learn search discover - A Web app using React, JavaScript, Node.js, Express.js, MongoDB, Mongoose, TailwindCSS and DaisyUI

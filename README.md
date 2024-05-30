@@ -1,6 +1,6 @@
 ## Hey, I'm Jamie 👋
 
-## I am a Fontend developer based in London
+I am a Fontend developer based in London
 
 💻 My Tech Stack:
 
